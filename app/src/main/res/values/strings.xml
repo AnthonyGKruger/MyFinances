@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFinances</string>
+    <string name="welcome_please_select_which_account_type_you">Welcome, please select which account type you:</string>
+    <string name="select">Select</string>
+    <string name="cheque_account">Cheque Account</string>
+    <string name="loan">Loan</string>
+    <string name="cd">CD</string>
+    <string name="account_number">Account Number:</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="initial_balance">Initial Balance:</string>
+    <string name="payment_amount">Payment Amount:</string>
+    <string name="enter_amount">Enter Amount:</string>
+    <string name="interest_rate">Interest Rate:</string>
+    <string name="not_available">Not Available</string>
+    <string name="save">Save</string>
+    <string name="enter_acc">Enter Acc</string>
+</resources>
